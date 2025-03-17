@@ -39,9 +39,9 @@
    </script>
 <script>
 let tglNow = new Date();
-let waktuBatas = new Date("2025-04-17T19:26:00");
+let waktuBatas = new Date("2025-04-17T23:59:00");
 if (tglNow.getTime() >= waktuBatas.getTime()) {
-  document.location.href = 'expired.html';
+  document.location.href = 'https://expiredweb.pages.dev';
 } else {
   console.log('Server aktif');
 }
