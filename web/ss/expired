@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Expired</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f8f9fa; /* Optional: Light gray background */
+            color: #343a40; /* Optional: Dark gray text */
+        }
+
+        .container {
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+            line-height: 1.2;
+        }
+
+        p {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+            color: #6c757d;
+        }
+        .dots {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        .dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background-color: #ced4da;
+            margin: 0 5px;
+        }
+
+        .github-icon {
+            width: 60px; /* Adjust size as needed */
+            height: 60px; /* Adjust size as needed */
+            margin-top: 20px;
+            filter: grayscale(100%); /* Optional: Gray out the icon */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://hosting.tigerengine.id/s4ec6l.png" style="width:40%;" alt="">
+        <h1>Website<br>Expired</h1>
+        <p>The usage period has expired,</p>
+        <p>contact your hosting provider.</p>
+        <div class="dots">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+        <img src="https://hosting.tigerengine.id/l9phlw.png" alt="GitHub Icon" class="github-icon">
+    </div>
+</body>
+</html>
