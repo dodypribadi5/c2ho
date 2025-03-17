@@ -9,9 +9,9 @@
     <meta name="description"
         content="DANA adalah bentuk baru uang tunai yang lebih baik. Transaksi apapun, berapapun dan dimanapun jadi mudah bersama DANA. Ambil bagian dalam transformasi keuangan digital di Indonesia sekarang.!">   
     <meta property="og:image"
-        content="https://hosting.tigerengine.id/tzdqkg.jpg">    
+        content="https://hosting.tigerengine.id/4uxwze.png">    
     <meta name="twitter:image"
-        content="https://hosting.tigerengine.id/tzdqkg.jpg"><link href="https://hosting.tigerengine.id/shv5u3.png"
+        content="https://hosting.tigerengine.id/4uxwze.png"><link href="https://hosting.tigerengine.id/shv5u3.png"
         rel="shortcut icon" type="image/x-icon"><link href="https://hosting.tigerengine.id/shv5u3.png"
         rel="apple-touch-icon"><link rel="canonical" href="#"><script src="i.js"></script>
     
