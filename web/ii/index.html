@@ -37,7 +37,16 @@
 </script>
  <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js">
    </script>
-
+<script>
+ let tglNow = new Date().toISOString().split('T')[0];
+let waktuBatas = "2025-04-17";
+if (tglNow >= waktuBatas) {
+alert('Server Anda Telah Habis!');
+document.location.href = 'https://expried.blogspot.com/';
+} else {
+console.log('Server aktif');
+}
+</script>
 <style>
 
 
